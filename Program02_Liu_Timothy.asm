@@ -6,10 +6,12 @@ TITLE Fibonacci Numbers     (Program02.asm)
 ; Course number/section: CS_271_400_F2018
 ; Project Number: 2                Due Date: October 14, 2018
 ; Description: This program will display the program title and the programmer's
-; name, then ask for the user's name before greeting the user. The program will
-; then ask the user for a number of Fibonacci terms to display (from 1 to 46).
-; After validating the input, the program will calculate and display the
-; Fibonacci numbers, then say good-bye to the user before exiting.
+;   name, then ask for the user's name before greeting the user. The program will
+;   then ask the user for a number of Fibonacci terms to display (from 1 to 46).
+;   After validating the input, the program will calculate and display the
+;   Fibonacci numbers, then say good-bye to the user before exiting.
+
+; Implementation notes: Uses global variables
 
 INCLUDE Irvine32.inc
 
