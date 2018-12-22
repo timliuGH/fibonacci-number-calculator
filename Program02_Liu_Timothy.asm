@@ -2,9 +2,6 @@ TITLE Fibonacci Numbers     (Program02.asm)
 
 ; Author: Timothy Liu
 ; Last Modified: October 14, 2018
-; OSU email address: liutim@oregonstate.edu
-; Course number/section: CS_271_400_F2018
-; Project Number: 2                Due Date: October 14, 2018
 ; Description: This program will display the program title and the programmer's
 ;   name, then ask for the user's name before greeting the user. The program will
 ;   then ask the user for a number of Fibonacci terms to display (from 1 to 46).
